@@ -1,3 +1,4 @@
+from extras import alphabet
 run = True
 while run:
         direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n")
