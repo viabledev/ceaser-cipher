@@ -1,2 +1,2 @@
-# ceaser-cipher
-A safe way to chat.
+# Ceaser-Cipher
+A safe way to communicate by ecnrypting and decrypting the messages. It allows encryption on a shift value.
